@@ -1,0 +1,43 @@
+# Troubleshooting Log Template
+
+---
+Issue ID: <TROUBLE_ID>
+Date: YYYY-MM-DD
+Reported by: <Your Name>
+---
+
+## 概要
+
+問題の簡潔な概要を記載。
+
+## 再現手順 (Steps to Reproduce)
+1.
+2.
+3.
+
+## 環境情報 (Environment)
+- OS:
+- ブラウザ/プラットフォーム:
+- バージョン:
+- その他:
+
+## 期待される動作 (Expected)
+
+ここに期待される結果や正常時の動作を記載。
+
+## 実際の動作 (Observed)
+
+ここに実際に発生した問題やエラーメッセージを記載。
+
+## ログ / スクリーンショット (Logs / Screenshots)
+```
+# ログ例をここに貼り付け
+```
+
+## 一時対応 (Workaround)
+
+もし行った回避策や一時対応があれば記載。
+
+## 備考 (Notes)
+
+追加情報や関連チケット、参考リンクなどを記載。
