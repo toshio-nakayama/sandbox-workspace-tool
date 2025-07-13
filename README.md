@@ -1,5 +1,7 @@
 # ワークスペースジェネレータ
 
+リポジトリ: <https://github.com/toshio-nakayama/sandbox-workspace-tool.git>
+
 テンプレートファイルから固定フォルダにファイルを一括生成・リセットするツール。
 PHP／SQL／Markdown／HTML／トラブルシュートログの雛形を素早く作成できる。
 
